@@ -8,7 +8,9 @@
 
 - ❓You can ask me: Java, Spring, SQL, PHP  
 
-- ⚡Fun fact: I use tabs over spaces  
+- ⚡Fun fact: I use tabs over spaces
+
+- 💘Love: Yes, my best friend and wife [Vivi](https://www.instagram.com/vivi_03693/)
 
 - 🐶Pets: Of course, 3 of them: Lucky, Contador and Zoro  
 
