@@ -14,7 +14,7 @@
   <path fill="url(#paper)" d="M0 0h1280v624H0z"/>
   <g fill="#181916" font-family="'Courier New',monospace" font-size="16" font-weight="700" letter-spacing="1.6">
     <text x="48" y="43">THE HUMAN BEHIND @JSALONL</text>
-    <text x="1232" y="43" text-anchor="end">INDEPENDENT MIND / COLOMBIA</text>
+    <text x="1232" y="43" text-anchor="end">VILLAVICENCIO / COLOMBIA</text>
   </g>
   <path d="M48 63H1232" stroke="#181916" stroke-width="2"/>
   <g fill="#181916" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="184" font-weight="900" letter-spacing="-13">
@@ -68,7 +68,7 @@
   </g>
   <path fill="#181916" d="M0 559h1280v65H0z"/>
   <g fill="#f3eedf" font-family="'Courier New',monospace" font-size="17" font-weight="700" letter-spacing="1">
-    <text x="48" y="599">SERIOUS ABOUT THE CRAFT.</text>
-    <text x="1232" y="599" text-anchor="end">A LITTLE LESS SERIOUS ABOUT EVERYTHING ELSE. ↗</text>
+    <text x="48" y="599">GO / FULL STACK / AI TOOLS</text>
+    <text x="1232" y="599" text-anchor="end">REMOTE SINCE 2010. ↗</text>
   </g>
 </svg>

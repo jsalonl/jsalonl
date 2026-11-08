@@ -1,84 +1,115 @@
 <p align="center">
-  <img src="./assets/cover.svg" width="100%" alt="Joan Nieto — Go expert, full-stack engineer at Globant. Código con carácter. An original pirate gopher on a cream, black and vermilion fanzine cover." />
+  <img src="./assets/cover.svg" width="100%" alt="Joan Nieto — Go expert, full-stack developer at Globant. Código con carácter. A pirate gopher on a cream, black and red fanzine cover." />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salomon-nieto/">LinkedIn ↗</a>
   &nbsp; / &nbsp;
-  <a href="https://github.com/jsalonl?tab=repositories">The code ↗</a>
+  <a href="https://github.com/jsalonl?tab=repositories">Code ↗</a>
   &nbsp; / &nbsp;
   <a href="#the-crew">The crew ↓</a>
 </p>
 
-## Go is my home turf.
+## Hey, I'm Joan.
 
-I'm **Joan Nieto** — telecommunications engineer, full-stack developer, and **Go expert**, currently at **[Globant](https://www.globant.com/)**. Based in **Villavicencio, Colombia**. Working remotely since **2010**.
+Telecommunications engineer, full-stack developer, and **Go expert**, currently at **[Globant](https://www.globant.com/)**. I work from **Villavicencio, Colombia**, and have been doing the remote thing since **2010**.
 
-I like software with a clear purpose, code you can actually read, and enough curiosity to question the usual way of doing things. Serious about the craft. A little irreverent about everything else.
+Go is where I spend most of my time. I also work across the stack, use AI tools, and still prefer tabs over spaces.
 
-**Código con carácter. Y sin tanta vuelta.**
+## The workbench
 
----
+### Backend
 
-## 01 / The toolbox
+<p>
+  <a href="https://go.dev/"><img src="./assets/tools/go.svg" alt="Go" width="104" height="60" /></a>
+  <a href="https://www.java.com/"><img src="./assets/tools/java.svg" alt="Java" width="104" height="60" /></a>
+  <a href="https://spring.io/"><img src="./assets/tools/spring.svg" alt="Spring" width="104" height="60" /></a>
+  <a href="https://nodejs.org/"><img src="./assets/tools/nodejs.svg" alt="Node.js" width="104" height="60" /></a>
+  <a href="https://www.php.net/"><img src="./assets/tools/php.svg" alt="PHP" width="104" height="60" /></a>
+  <a href="https://laravel.com/"><img src="./assets/tools/laravel.svg" alt="Laravel" width="104" height="60" /></a>
+</p>
 
-**Go takes the lead.** The rest of the stack earns its place.
+### Frontend
 
-| Territory | Tools I work with |
-| :--- | :--- |
-| **Backend** | **Go** · Java · Spring · Node.js · PHP · Laravel |
-| **Frontend** | React · JavaScript · HTML · CSS · Tailwind CSS |
-| **Delivery** | Docker · AWS · Jenkins · Linux · Bash · Git |
-| **Data** | PostgreSQL · MySQL · MongoDB · Oracle |
+<p>
+  <a href="https://nextjs.org/"><img src="./assets/tools/nextjs.svg" alt="Next.js" width="104" height="60" /></a>
+  <a href="https://react.dev/"><img src="./assets/tools/react.svg" alt="React" width="104" height="60" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/tools/javascript.svg" alt="JavaScript" width="104" height="60" /></a>
+  <a href="https://tailwindcss.com/"><img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" width="104" height="60" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/tools/html5.svg" alt="HTML" width="104" height="60" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/tools/css3.svg" alt="CSS" width="104" height="60" /></a>
+</p>
 
-<sub>Telecom roots. Full-stack range. Tabs over spaces. Some convictions survive every refactor.</sub>
+### Infra & delivery
 
-## 02 / Show me the code
+<p>
+  <a href="https://www.docker.com/"><img src="./assets/tools/docker.svg" alt="Docker" width="104" height="60" /></a>
+  <a href="https://aws.amazon.com/"><img src="./assets/tools/amazonwebservices.svg" alt="AWS" width="104" height="60" /></a>
+  <a href="https://git-scm.com/"><img src="./assets/tools/git.svg" alt="Git" width="104" height="60" /></a>
+  <a href="https://www.kernel.org/"><img src="./assets/tools/linux.svg" alt="Linux" width="104" height="60" /></a>
+  <a href="https://www.jenkins.io/"><img src="./assets/tools/jenkins.svg" alt="Jenkins" width="104" height="60" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="./assets/tools/bash.svg" alt="Bash" width="104" height="60" /></a>
+</p>
 
-### [go-config ↗](https://github.com/jsalonl/go-config)
+### Data
 
-Configuration without the ceremony. A Go library for loading JSON and YAML into structs, with environment-variable substitution, `.env` support, and custom unmarshalling.
+<p>
+  <a href="https://www.postgresql.org/"><img src="./assets/tools/postgresql.svg" alt="PostgreSQL" width="104" height="60" /></a>
+  <a href="https://www.mysql.com/"><img src="./assets/tools/mysql.svg" alt="MySQL" width="104" height="60" /></a>
+  <a href="https://www.mongodb.com/"><img src="./assets/tools/mongodb.svg" alt="MongoDB" width="104" height="60" /></a>
+  <a href="https://www.oracle.com/database/"><img src="./assets/tools/oracle.svg" alt="Oracle" width="104" height="60" /></a>
+</p>
 
-`Go` `Configuration` `Developer tooling`
+## AI is on the workbench too
 
-### [go_multi_version_db ↗](https://github.com/jsalonl/go_multi_version_db)
+<p>
+  <a href="https://claude.ai/"><img src="./assets/tools/claude.svg" alt="Claude" width="104" height="60" /></a>
+  <a href="https://developers.openai.com/codex/"><img src="./assets/tools/codex.svg" alt="Codex" width="104" height="60" /></a>
+  <a href="https://opencode.ai/"><img src="./assets/tools/opencode.svg" alt="OpenCode" width="104" height="60" /></a>
+  <a href="https://gemini.google.com/"><img src="./assets/tools/gemini.svg" alt="Gemini" width="104" height="60" /></a>
+  <a href="https://cursor.com/"><img src="./assets/tools/cursor.svg" alt="Cursor" width="104" height="60" /></a>
+</p>
 
-One API, different database engines and versions. A Go REST API exploring Abstract Factory, with the database implementation selected at runtime through environment variables.
+Coding agents, terminal workflows, context, and prompts. I use AI to explore ideas, work through a problem, or get a refactor moving. Then I read the diff.
 
-`Go` `REST API` `Design patterns`
+## A few things I've built
 
-### [api-crud-interceptor ↗](https://github.com/jsalonl/api-crud-interceptor)
+### [go-config](https://github.com/jsalonl/go-config)
 
-A look at the Java side: a REST API example with a DDD structure, unit tests, custom exception handling, Swagger documentation, and request/response logging.
+Load JSON or YAML into Go structs, substitute environment variables, read `.env` files, and plug in custom unmarshalling.
 
-`Java` `Spring` `DDD`
+### [go_multi_version_db](https://github.com/jsalonl/go_multi_version_db)
 
-[More experiments, tools, and telecom adventures →](https://github.com/jsalonl?tab=repositories)
+A Go REST API using Abstract Factory to select database engines and versions at runtime through environment variables.
+
+### [api-crud-interceptor](https://github.com/jsalonl/api-crud-interceptor)
+
+A Java REST API example with a DDD structure, unit tests, exception handling, Swagger docs, and request/response logging.
+
+[The rest is over here →](https://github.com/jsalonl?tab=repositories)
 
 ---
 
 <a id="the-crew"></a>
 
-## 03 / The crew
+## The crew
 
-Off the clock: **Vivi, my wife and best friend**, and a home with its own little Grand Line. Yes, the names are from *One Piece*. Yes, this is a recurring theme.
+At home: **Vivi, my wife and best friend**, and five pets with *One Piece* names. The naming convention got out of hand.
 
 <p align="center">
-  <img src="./assets/crew.svg" width="100%" alt="The crew: Zoro, Lucy, Franky, Nami, and Robin. Five pets, one very good crew. Five illustrated paw-print stamps." />
+  <img src="./assets/crew.svg" width="100%" alt="Paw-print stamps for Zoro, Lucy, Franky, Nami, and Robin." />
 </p>
 
-**Zoro · Lucy · Franky · Nami · Robin.** Five pets. One very good crew.
+**Zoro · Lucy · Franky · Nami · Robin.**
 
 <sub>For the two who sailed ahead: always part of the crew. ♡</sub>
 
-## 04 / Open a channel
+## Say hi
 
-Want to talk **Go, backend engineering, or building something with a point of view**?
-
-**[Find me on LinkedIn ↗](https://www.linkedin.com/in/salomon-nieto/)**
+Go, AI tooling, side projects, or *One Piece* — **[find me on LinkedIn](https://www.linkedin.com/in/salomon-nieto/)**.
 
 <br />
 
 <p align="center">
-  <img src="./assets/signoff.svg" width="100%" alt="End of file. Still curious. Hecho en Colombia, con carácter." />
+  <img src="./assets/signoff.svg" width="100%" alt="git push. y a pasear. Hecho en Colombia, con carácter." />
 </p>
