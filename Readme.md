@@ -1,98 +1,84 @@
-# Hi, I'm { Joan Nieto }
+<p align="center">
+  <img src="./assets/cover.svg" width="100%" alt="Joan Nieto — Go expert, full-stack engineer at Globant. Código con carácter. An original pirate gopher on a cream, black and vermilion fanzine cover." />
+</p>
 
-### <div align="center">Telecommunications engineer 📶 and fullstack developer👨‍💻 working remotely since 2010 🚀</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/salomon-nieto/">LinkedIn ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/jsalonl?tab=repositories">The code ↗</a>
+  &nbsp; / &nbsp;
+  <a href="#the-crew">The crew ↓</a>
+</p>
 
-- 🔭  I’m currently working on [Meli - Mercado Libre](https://careers-meli.mercadolibre.com/)  
+## Go is my home turf.
 
-- 📒   I'm learning: Go  
+I'm **Joan Nieto** — telecommunications engineer, full-stack developer, and **Go expert**, currently at **[Globant](https://www.globant.com/)**. Based in **Villavicencio, Colombia**. Working remotely since **2010**.
 
-- ❓You can ask me: Java, Spring, SQL, PHP, Docker  
+I like software with a clear purpose, code you can actually read, and enough curiosity to question the usual way of doing things. Serious about the craft. A little irreverent about everything else.
 
-- ⚡Fun fact: I use tabs over spaces
+**Código con carácter. Y sin tanta vuelta.**
 
-- 💘Love: Yes, my best friend and wife [Vivi](https://www.instagram.com/vivi_03693/)
+---
 
-- 🐶Pets: Of course, 3 of them: Lucky, Contador and Zoro  
+## 01 / The toolbox
 
-  
+**Go takes the lead.** The rest of the stack earns its place.
 
-## My Skill Set
+| Territory | Tools I work with |
+| :--- | :--- |
+| **Backend** | **Go** · Java · Spring · Node.js · PHP · Laravel |
+| **Frontend** | React · JavaScript · HTML · CSS · Tailwind CSS |
+| **Delivery** | Docker · AWS · Jenkins · Linux · Bash · Git |
+| **Data** | PostgreSQL · MySQL · MongoDB · Oracle |
 
-### Backend
+<sub>Telecom roots. Full-stack range. Tabs over spaces. Some convictions survive every refactor.</sub>
 
-<div align="center">  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>   
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-</div>
+## 02 / Show me the code
 
-### Frontend
+### [go-config ↗](https://github.com/jsalonl/go-config)
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
+Configuration without the ceremony. A Go library for loading JSON and YAML into structs, with environment-variable substitution, `.env` support, and custom unmarshalling.
 
-### DevOps
+`Go` `Configuration` `Developer tooling`
 
-<div align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
+### [go_multi_version_db ↗](https://github.com/jsalonl/go_multi_version_db)
 
-### Data
+One API, different database engines and versions. A Go REST API exploring Abstract Factory, with the database implementation selected at runtime through environment variables.
 
-<div align="center">  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
+`Go` `REST API` `Design patterns`
 
-  
+### [api-crud-interceptor ↗](https://github.com/jsalonl/api-crud-interceptor)
 
-## Connect with me
+A look at the Java side: a REST API example with a DDD structure, unit tests, custom exception handling, Swagger documentation, and request/response logging.
 
-<div align="center">
-<a href="https://github.com/jsalonl" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/salomon-nieto" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+`Java` `Spring` `DDD`
 
-## Github Stats
+[More experiments, tools, and telecom adventures →](https://github.com/jsalonl?tab=repositories)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jsalonl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+---
 
+<a id="the-crew"></a>
 
+## 03 / The crew
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jsalonl&&style=flat-square" align="center" />
-</div>
+Off the clock: **Vivi, my wife and best friend**, and a home with its own little Grand Line. Yes, the names are from *One Piece*. Yes, this is a recurring theme.
 
-<div align="center">
-            <a href="https://paypal.me/jsalonl" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            </div>
+<p align="center">
+  <img src="./assets/crew.svg" width="100%" alt="The crew: Zoro, Lucy, Franky, Nami, and Robin. Five pets, one very good crew. Five illustrated paw-print stamps." />
+</p>
+
+**Zoro · Lucy · Franky · Nami · Robin.** Five pets. One very good crew.
+
+<sub>For the two who sailed ahead: always part of the crew. ♡</sub>
+
+## 04 / Open a channel
+
+Want to talk **Go, backend engineering, or building something with a point of view**?
+
+**[Find me on LinkedIn ↗](https://www.linkedin.com/in/salomon-nieto/)**
+
 <br />
 
-
+<p align="center">
+  <img src="./assets/signoff.svg" width="100%" alt="End of file. Still curious. Hecho en Colombia, con carácter." />
+</p>

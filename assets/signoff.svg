@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="120" viewBox="0 0 1280 120" role="img" aria-labelledby="title desc">
+  <title id="title">End of file. Still curious.</title>
+  <desc id="desc">A black editorial signoff with a vermilion asterisk. Hecho en Colombia, con carácter.</desc>
+  <path fill="#181916" d="M0 0h1280v120H0z"/>
+  <g stroke="#e7472b" stroke-width="5" transform="translate(58 60)">
+    <path d="M-19 0h38M0-19v38m-14-14 28 28m0-28-28 28"/>
+  </g>
+  <text x="103" y="70" fill="#f3eedf" font-family="Arial,sans-serif" font-size="31" font-weight="900" letter-spacing="-1">END OF FILE. STILL CURIOUS.</text>
+  <g fill="#f3eedf" font-family="'Courier New',monospace" font-size="17" font-weight="700" letter-spacing=".5" text-anchor="end">
+    <text x="1232" y="53">HECHO EN COLOMBIA.</text>
+    <text x="1232" y="78">CON CARÁCTER.</text>
+  </g>
+</svg>

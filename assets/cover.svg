@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="624" viewBox="0 0 1280 624" role="img" aria-labelledby="title desc">
+  <title id="title">Joan Nieto — Código con carácter</title>
+  <desc id="desc">An editorial fanzine cover in cream, black and vermilion. Large Joan Nieto lettering sits beside an original Go-inspired pirate gopher. Go expert, full-stack engineer at Globant. Made in Colombia.</desc>
+  <defs>
+    <pattern id="paper" width="19" height="23" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="5" r=".65" fill="#25231f" opacity=".09"/>
+      <circle cx="14" cy="18" r=".45" fill="#25231f" opacity=".07"/>
+    </pattern>
+    <pattern id="halftone" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.2" fill="#181916" opacity=".20"/>
+    </pattern>
+  </defs>
+  <path fill="#f3eedf" d="M0 0h1280v624H0z"/>
+  <path fill="url(#paper)" d="M0 0h1280v624H0z"/>
+  <g fill="#181916" font-family="'Courier New',monospace" font-size="16" font-weight="700" letter-spacing="1.6">
+    <text x="48" y="43">THE HUMAN BEHIND @JSALONL</text>
+    <text x="1232" y="43" text-anchor="end">INDEPENDENT MIND / COLOMBIA</text>
+  </g>
+  <path d="M48 63H1232" stroke="#181916" stroke-width="2"/>
+  <g fill="#181916" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="184" font-weight="900" letter-spacing="-13">
+    <text x="38" y="252">JOAN</text>
+    <text x="38" y="417">NIETO.</text>
+  </g>
+  <path d="M54 442c164-10 329-11 514-7" fill="none" stroke="#e7472b" stroke-width="10"/>
+  <g transform="translate(656 113) rotate(-8)">
+    <path d="M-10-24H166V59H-10z" fill="#e7472b"/>
+    <g fill="#181916" font-family="Arial,sans-serif" font-size="23" font-weight="900" letter-spacing="-.8">
+      <text x="5" y="8">CÓDIGO CON</text>
+      <text x="5" y="37">CARÁCTER.</text>
+    </g>
+  </g>
+  <ellipse cx="1000" cy="302" rx="199" ry="202" fill="#e7472b"/>
+  <ellipse cx="1000" cy="302" rx="199" ry="202" fill="url(#halftone)"/>
+  <path d="M808 434c-50 75-111 25-106-16 6-44 88-39 80 4-7 36-81 60-143 41" fill="none" stroke="#181916" stroke-width="2.5" stroke-dasharray="7 7"/>
+  <g transform="translate(855 162) rotate(7 135 150)" stroke="#f3eedf" stroke-width="19" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M67 284l-27 30c-13 17 25 28 46 8l12-24m91-14 28 30c13 17-25 28-46 8l-12-24" fill="#f3eedf"/>
+    <path d="M54 114C12 66 19 40 46 38c25-2 35 23 39 48m105 1c4-25 15-50 40-47 27 3 33 29-9 76" fill="#f3eedf"/>
+    <path d="M50 135C46 75 81 58 139 61c59 2 93 27 92 87l-2 93c-1 58-33 75-94 74-59-2-91-26-87-78z" fill="#f3eedf"/>
+    <path d="M35 160 12 194c-12 18 2 31 15 19l26-28m175-21 25 28c15 17 4 33-10 22l-25-25" fill="none"/>
+  </g>
+  <g transform="translate(855 162) rotate(7 135 150)" stroke="#181916" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M67 284l-27 30c-13 17 25 28 46 8l12-24m91-14 28 30c13 17-25 28-46 8l-12-24" fill="#e7472b"/>
+    <path d="M54 114C12 66 19 40 46 38c25-2 35 23 39 48" fill="#f3eedf"/>
+    <path d="M190 87c4-25 15-50 40-47 27 3 33 29-9 76" fill="#f3eedf"/>
+    <path d="M47 85c-11-17-12-28-2-29 10-1 17 11 20 24m145 2c4-15 10-25 20-23 10 1 8 13-3 28" fill="none" stroke-width="3"/>
+    <path d="M50 135C46 75 81 58 139 61c59 2 93 27 92 87l-2 93c-1 58-33 75-94 74-59-2-91-26-87-78z" fill="#f3eedf"/>
+    <path d="M35 160 12 194c-12 18 2 31 15 19l26-28m175-21 25 28c15 17 4 33-10 22l-25-25" fill="#f3eedf"/>
+    <ellipse cx="98" cy="137" rx="29" ry="34" fill="#fffdf4"/>
+    <ellipse cx="176" cy="137" rx="29" ry="34" fill="#181916"/>
+    <circle cx="103" cy="139" r="9" fill="#181916" stroke="none"/>
+    <path d="m59 111 157 57M199 108l-47 54" fill="none" stroke-width="7"/>
+    <path d="M121 197v24h31v-24" fill="#fffdf4" stroke-width="3"/>
+    <path d="M105 192q32 24 62-1" fill="none" stroke-width="4"/>
+    <ellipse cx="137" cy="181" rx="19" ry="12" fill="#181916"/>
+    <path d="M65 93c8-35 26-48 67-46 48 1 72 19 81 51-45-9-93-11-148-5z" fill="#181916"/>
+    <path d="m133 49 13-20 24 31m-1-4 29-13-8 27" fill="#e7472b"/>
+    <path d="M75 80q57-11 126 8" fill="none" stroke="#f3eedf" stroke-width="3"/>
+    <path d="M77 248q61 19 121-1m-120 19q60 19 118-1m-114 19q55 16 108-1" fill="none" stroke-width="6"/>
+    <path d="m63 218 8 7m131-5 8-8" stroke="#e7472b" stroke-width="3"/>
+  </g>
+  <g transform="translate(1190 118)" stroke="#181916" stroke-width="3" fill="none">
+    <path d="M-24 0h48M0-24v48M-15-15l30 30m0-30-30 30"/>
+    <circle r="8" fill="#f3eedf"/>
+  </g>
+  <g fill="#181916" font-family="'Courier New',monospace" font-weight="700" font-size="20">
+    <text x="54" y="490">GO EXPERT. FULL-STACK RANGE.</text>
+    <text x="54" y="519">CURRENTLY BUILDING AT GLOBANT.</text>
+  </g>
+  <path fill="#181916" d="M0 559h1280v65H0z"/>
+  <g fill="#f3eedf" font-family="'Courier New',monospace" font-size="17" font-weight="700" letter-spacing="1">
+    <text x="48" y="599">SERIOUS ABOUT THE CRAFT.</text>
+    <text x="1232" y="599" text-anchor="end">A LITTLE LESS SERIOUS ABOUT EVERYTHING ELSE. ↗</text>
+  </g>
+</svg>
